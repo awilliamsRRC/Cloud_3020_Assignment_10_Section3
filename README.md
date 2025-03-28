@@ -1,4 +1,4 @@
-# GitHub Pages Demo AKKEM WAS HERE
+# GitHub Pages Demo AEKEM WAS HERE
 
 ## :bulb: [What is GitHub Pages?](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
 
